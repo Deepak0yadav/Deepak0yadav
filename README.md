@@ -4,8 +4,7 @@ I am a passionate Web Developer from India, currently pursuing my B.Tech from DS
   
 💻 What I work on:
 
-Frontend Web Development: HTML, CSS, JavaScript, Tailwind CSS,React
-Backend: Node.js and learning about server-side programming.
+HTML, CSS, JavaScript, Tailwind CSS,React,Node.js and learning about server-side programming.
 Contributing to Open Source and building meaningful projects.
 
 ✨ Highlights of my journey so far:
