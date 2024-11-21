@@ -1,5 +1,24 @@
 <h1 align="center"> नमस्ते 👋, I'm Deepak Yadav</h1>
-<h3 align="center">I am a passionate Web developer from India</h3>
+<h3 >
+I am a passionate Web Developer from India, currently pursuing my B.Tech from DSCE,Bangalore. I specialize in creating interactive, responsive, and user-friendly web applications and expanding my skills in backend development.
+  
+💻 What I work on:
+
+Frontend Web Development: HTML, CSS, JavaScript, Tailwind CSS,React
+Backend: Node.js and learning about server-side programming.
+Contributing to Open Source and building meaningful projects.
+
+✨ Highlights of my journey so far:
+Participated in Hacktoberfest 2024,GSSoC24 (GirlScript Summer of Code).
+Learning backend development with MERN stack.
+
+🚀 Future goals:
+Building innovative SaaS products.
+💡 I believe in learning by doing and am always excited to collaborate on new ideas and projects.
+Feel free to connect and discuss tech!
+
+</h3>
+
 
 ![user (2)](https://github.com/user-attachments/assets/ab25b86b-1f45-4fa2-88ce-6b033902d255)
 
