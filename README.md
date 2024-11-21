@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Deepak Yadav</h1>
-<h3 align="center">Namaste , I am a passionate frontend developer from India</h3>
+<h1 align="center"> नमस्ते 👋, I'm Deepak Yadav</h1>
+<h3 align="center">I am a passionate Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak0yadav&label=Profile%20views&color=0e75b6&style=flat" alt="deepak0yadav" /> </p>
 
