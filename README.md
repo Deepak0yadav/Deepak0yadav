@@ -11,6 +11,12 @@
 - 🚀 Future Goal: Build innovative **SaaS Products**
 
 ---
+<p align="center">
+  <img src="mine.gif" alt="Deepak Yadav" width="500"/>
+</p>
+
+
+
 
 ### 🛠️ Tech Stack
 
